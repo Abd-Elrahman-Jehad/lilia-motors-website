@@ -104,6 +104,13 @@ All elements were adjusted carefully to maintain layout consistency and usabilit
 ---
 
 ## 📸 Preview
+<img width="1880" height="911" alt="Screenshot 2026-04-17 235445" src="https://github.com/user-attachments/assets/ea9394f9-ceab-42b5-966e-749dbf1339a4" />
+<img width="1887" height="909" alt="Screenshot 2026-04-17 235501" src="https://github.com/user-attachments/assets/cbbe6247-2234-4040-aa1e-07f389edd4ea" />
+<img width="1881" height="912" alt="Screenshot 2026-04-17 235558" src="https://github.com/user-attachments/assets/2f8c0d00-6770-4dfd-899b-c4687cc9eb51" />
+<img width="1886" height="912" alt="Screenshot 2026-04-17 235535" src="https://github.com/user-attachments/assets/31a68b35-ed9d-4d53-bf47-34309eb0579c" />
+<img width="1883" height="915" alt="Screenshot 2026-04-17 235614" src="https://github.com/user-attachments/assets/7c185ff8-e78d-429a-a2dd-97a4140b8fc0" />
 
-(<img width="1100" height="151" alt="image" src="https://github.com/user-attachments/assets/34c49757-b4a1-4110-984b-89d63c4c7fd4" />
-)
+
+
+
+
