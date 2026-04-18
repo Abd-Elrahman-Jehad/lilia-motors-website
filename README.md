@@ -104,11 +104,18 @@ All elements were adjusted carefully to maintain layout consistency and usabilit
 ---
 
 ## 📸 Preview
-<img width="180" height="400" alt="Screenshot 2026-04-17 235445" src="https://github.com/user-attachments/assets/ea9394f9-ceab-42b5-966e-749dbf1339a4" /><img width="187" height="400" alt="Screenshot 2026-04-17 235501" src="https://github.com/user-attachments/assets/cbbe6247-2234-4040-aa1e-07f389edd4ea" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ea9394f9-ceab-42b5-966e-749dbf1339a4" width="32%" />
+  <img src="https://github.com/user-attachments/assets/cbbe6247-2234-4040-aa1e-07f389edd4ea" width="32%" />
+  <img src="https://github.com/user-attachments/assets/2f8c0d00-6770-4dfd-899b-c4687cc9eb51" width="32%" />
+</p>
 
-<img width="181" height="400" alt="Screenshot 2026-04-17 235558" src="https://github.com/user-attachments/assets/2f8c0d00-6770-4dfd-899b-c4687cc9eb51" /><img width="186" height="400" alt="Screenshot 2026-04-17 235535" src="https://github.com/user-attachments/assets/31a68b35-ed9d-4d53-bf47-34309eb0579c" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/31a68b35-ed9d-4d53-bf47-34309eb0579c" width="32%" />
+  <img src="https://github.com/user-attachments/assets/7c185ff8-e78d-429a-a2dd-97a4140b8fc0" width="32%" />
+  <img src="https://github.com/user-attachments/assets/69203b2c-6e68-4718-a002-83973ec70de3" width="32%" />
+</p>
 
-<img width="183" height="400" alt="Screenshot 2026-04-17 235614" src="https://github.com/user-attachments/assets/7c185ff8-e78d-429a-a2dd-97a4140b8fc0" />
 
 
 
